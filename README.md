@@ -2,8 +2,7 @@
 <html>
 <body>
 
-<p align="center">
-<image src="hyundai.jpg" width="400" height="400" />
+
 
 
 <h3 align="center"> What is Hyudnai? </h3>
