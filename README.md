@@ -11,7 +11,7 @@
 <p align="right">
 <img src="hundaui.jpg" width="230" height="130"/>
 <p align="right">
-<img src="download.jpg" width="300" height="200"/>
+<img src="download.jpg" width="230" height="130"/>
 
 
 
