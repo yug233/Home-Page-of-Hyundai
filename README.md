@@ -26,5 +26,5 @@
 
 
 
-<a href="https://github.com/yug233/Who-is-Chung-Ju-Yung"><img src="images (1).jpeg" alt="what you want audio descriptions to call it" style="width:400px;height:400px;"></a>
+<a href="https://github.com/yug233/Who-is-Chung-Ju-Yung"><img src="download (2).jpeg" alt="what you want audio descriptions to call it" style="width:200px;height:200px;"></a>
 
