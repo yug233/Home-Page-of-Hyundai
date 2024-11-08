@@ -19,3 +19,9 @@
 <a href="https://github.com/yug233/Advirtisement-for-Hyundai/blob/main/README.md"><img src="pexels-pixabay-159866.jpg" alt="what you want audio descriptions to call it" style="width:400px;height:400px;"></a>
 <p align="left"> Click above to find information if want to know how hyundai started </p>
 
+
+
+
+
+<a href="https://github.com/yug233/Who-is-Chung-Ju-Yung"><img src="pexels-pixabay-159866.jpg" alt="what you want audio descriptions to call it" style="width:400px;height:400px;"></a>
+
