@@ -16,7 +16,7 @@
 
 
 
-<a href="https://github.com/yug233/Advirtisement-for-Hyundai/blob/main/README.md"><img src="2874201.jpg" alt="what you want audio descriptions to call it" style="width:300px;height:300px;"></a>
+<a href="https://github.com/yug233/Advirtisement-for-Hyundai/blob/main/README.md"><img src="2874201.jpg" alt="what you want audio descriptions to call it" style="width:200px;height:300px;"></a>
 <p align="left">
 <img src="feature.png" width="230" height="130"/>
 <p align="left"> Click above to find information </p>
@@ -26,5 +26,5 @@
 
 
 
-<a href="https://github.com/yug233/Who-is-Chung-Ju-Yung"><img src="pexels-pixabay-159866.jpg" alt="what you want audio descriptions to call it" style="width:400px;height:400px;"></a>
+<a href="https://github.com/yug233/Who-is-Chung-Ju-Yung"><img src="images (1).jpeg" alt="what you want audio descriptions to call it" style="width:400px;height:400px;"></a>
 
