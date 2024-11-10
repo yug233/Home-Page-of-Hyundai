@@ -19,7 +19,7 @@
 <a href="https://github.com/yug233/Advirtisement-for-Hyundai/blob/main/README.md"><img src="2874201.jpg" alt="what you want audio descriptions to call it" style="width:400px;height:300px;"></a>
 <p align="left">
 <img src="feature.png" width="230" height="130"/>
-<p align="left"> Click above to find information about how hyundai started.  </p>
+<p align="left"> Click towards the arrow to find information about how hyundai started.  </p>
 <p align="right">
 <img src="Rails_Models_D_1_800x600_new.jpg" width="230" height="130"/>
 <p align="right">
@@ -33,5 +33,4 @@
 
 
 
-<a href="https://github.com/yug233/Who-is-Chung-Ju-Yung"><img src="download (2).jpeg" alt="what you want audio descriptions to call it" style="width:200px;height:200px;"></a> 
-
+<a href="https://github.com/yug233/Who-is-Chung-Ju-Yung"><img src="download (2).jpeg" alt="what you want audio descriptions to call it" style="width:200px;height:200px;"></a> <img src="582071-200.png" width="230" height="130"/> <p align="center"> Click towards the arrow to find more about 'Chung Ju Yung".</p>
