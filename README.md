@@ -22,6 +22,9 @@
 <p align="left"> Click above to find information about how hyundai started.  </p>
 <p align="right">
 <img src="Rails_Models_D_1_800x600_new.jpg" width="230" height="130"/>
+<p align="right">
+<img src="hyundai-palisade-render-1.jpg" width="230" height="130"/>
+
 
 
 
