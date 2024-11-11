@@ -36,3 +36,5 @@
 
 
 <a href="https://github.com/yug233/Who-is-Chung-Ju-Yung"><img src="download (2).jpeg" alt="what you want audio descriptions to call it" style="width:200px;height:200px;"></a> <img src="582071-200.png" width="230" height="130"/> <h6 align="center"> Click towards the arrow to find more about 'Chung Ju Yung".</h6>
+<p align="right">
+<img src="2025.jpg" width="230" height="130" />
