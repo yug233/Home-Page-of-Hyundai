@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html>
 <body>
-
+<h6 align="center"> **This is not hyundai's official home page**</h6>
 <p align="center">
 <img src="hyundai.png" width="500 height="500"/>
 
-<h6 align="center"> **This is not hyundai's official home page**</h6>
 <h2 align="left"> Indroduction </h2>
 <p align="left"> Hyundai, founded by  South-korean enterpuneur Chung ju yung in 1967, is a well recongnised automotive manufacturer. It is worth. 60.06 trillion dollars today. ItI is the 5th best car manufactur is. It is the fastest growing automotive in Australia. It is known for it's SUVs like the Palisade or there best selling model tuscon, sedans like the i30, small cars like the i20  and/or electric cars like the Ioniq 6. Hyundai is also known for it's commitment of quality, modern technoligies and sustainability in it's models. </p>
 <p align="right">
@@ -41,4 +40,10 @@
 <p align="right">
 <img src="download (3).jpeg" width="230" height="130"/>
 
-<a href="https://github.com/yug233/Advertisment-for-Hyundai-petrol-cars-/edit/main/README.md"><img src="images.png" alt="what you want audio description to call it" style="width:200px;height:200px,"></a> <img src="582071-200.png" width="200" height="100"/>
+<a href="https://github.com/yug233/Advertisment-for-Hyundai-petrol-cars-/edit/main/README.md"><img src="images.png" alt="what you want audio description to call it" style="width:200px;height:200px,"></a> 
+<p align="left">
+<img src="feature.png" width="230" height="130"/>
+<h6>Click towards the arrow to find more about Hyundai's cars</h6>
+
+
+
