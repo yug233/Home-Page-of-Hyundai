@@ -40,7 +40,7 @@
 <p align="right">
 <img src="download (3).jpeg" width="230" height="130"/>
 
-<a href="https://github.com/yug233/cars/edit/main/README.md"><img src="images.png" alt="what you want audio description to call it" style="width:200px;height:200px,"></a> 
+<a href="https://github.com/yug233/cars/blob/main/README.md"><img src="images.png" alt="what you want audio description to call it" style="width:200px;height:200px,"></a> 
 <p align="left">
 <img src="feature.png" width="230" height="130"/>
 <h6>Click towards the arrow to find all the cars Hyundai has ti offer for you</h6>
