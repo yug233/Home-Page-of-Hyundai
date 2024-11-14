@@ -37,7 +37,7 @@
 <a href="https://github.com/yug233/cars/blob/main/README.md"><img src="images.png" alt="what you want audio description to call it" style="width:200px;height:200px,"></a> 
 <p align="left">
 <img src="feature.png" width="230" height="130"/>
-<h6>Click towards the arrow to find all the cars Hyundai has ti offer for you</h6>
+<h6>Click towards the arrow to find all the cars Hyundai has to offer for you</h6>
 
 
 
