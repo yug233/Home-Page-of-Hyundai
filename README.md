@@ -39,5 +39,7 @@
 <img src="feature.png" width="230" height="130"/>
 <h6>Click towards the arrow to find all the cars Hyundai has to offer for you</h6>
 
+<a href="https://github.com/yug233/deals/blob/main/README.md"><img src="logo6.png" alt="what you want audio descriptions to call it" style="width:200px;height:200px;"></a> <img src="582071-200.png" width="230" height="130"/> <h6 align="center"> Click towards the arrow to find more about 'Chung Ju Yung'.</h6>
+
 
 
