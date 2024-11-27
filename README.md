@@ -32,7 +32,7 @@
 
 
 
-<a href="https://github.com/yug233/deals/blob/main/README.md"><img src="logo6.png" alt="what you want audio descriptions to call it" style="width:250px;height:200px;"></a> 
+<a href="https://github.com/yug233/deals/blob/main/README.md"><img src="logo6.png" alt="what you want audio descriptions to call it" style="width:350px;height:300px;"></a> 
 
 <h6> Click The Image Above To Look At Deals Hyundai Has To Offer You.</h6>
 
