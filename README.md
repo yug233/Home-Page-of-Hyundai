@@ -16,10 +16,6 @@
 
 
 
-<p align="right">
-<img src="Rails_Models_D_1_800x600_new.jpg" width="230" height="130"/>
-<p align="right">
-<img src="hyundai-palisade-render-1.jpg" width="230" height="130"/>
 
 
 
@@ -29,22 +25,12 @@
 
 
 
+<a href="https://github.com/yug233/Who-is-Chung-Ju-Yung/blob/main/README.md"><img src="download (2).jpeg" alt="what you want audio descriptions to call it" style="width:300px;height:300px;"></a> <h4 align="left"> CLICK THE IMAGE ABOVE TO FIND MORE ABOUT HYUNDAI's Owner </h4> 
 
 
-<a href="https://github.com/yug233/Who-is-Chung-Ju-Yung/blob/main/README.md"><img src="download (2).jpeg" alt="what you want audio descriptions to call it" style="width:200px;height:200px;"></a> <img src="582071-200.png" width="230" height="130"/> <h6 align="center"> Click towards the arrow to find more about 'Chung Ju Yung'.</h6>
-<p align="right">
-<img src="2025.jpg" width="230" height="130" />
-<p align="right">
-<img src="download (3).jpeg" width="230" height="130"/>
+<a href="https://github.com/yug233/cars/blob/main/README.md"><img src="images.png" alt="what you want audio description to call it" style="width:400px;height:400px,"></a> <h4 align="left"> CLICK THE IMAGE ABOVE TO LOOK AT ALL THE CARS HYUNDIA HAS TO OFFER YOU</h4> 
 
-<a href="https://github.com/yug233/cars/blob/main/README.md"><img src="images.png" alt="what you want audio description to call it" style="width:200px;height:200px,"></a> 
-<p align="left">
-<img src="feature.png" width="230" height="130"/>
-<h6>Click towards the arrow to find all the cars Hyundai has available.</h6>
-<p align="right">
-<img src="kona3.png" width="230" height="130"/>
-<p align="right">
-<img src="ioniq3.png" width="230" height="130"/>
+
 
 
 
