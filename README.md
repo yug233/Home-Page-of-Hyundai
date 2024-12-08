@@ -4,7 +4,7 @@
 <h6 align="center"> **This is not hyundai's official home page**</h6>
 <p align="center">
 <img src="hyundai.png" width="500 height="500"/>
-<h5 align="right"> CONTACT NUMBER: (02) 8806 3607</h4>
+<h5 align="right"> CONTACT NUMBER FOR HEARTLAND HYUNDAI: (02) 8806 3607</h4>
 
 <h2 align="left"> Indroduction </h2>
 <p align="left"> Hyundai, founded by  South-korean enterpuneur Chung ju yung in 1967, is a well recongnised automotive manufacturer. It is worth. 60.06 trillion dollars today. It is the 5th best car manufactur and is the fastest growing automotive in Australia. Hyundai known for it's SUVs like the Palisade or there best selling model tuscon, sedans like the i30, small cars like the i20  and/or electric cars like the Ioniq 6. Hyundai is also known for it's commitment of quality, modern technoligies and sustainability in it's models. </p>
